@@ -1,4 +1,4 @@
-## Css ödevi-3
+## Bootstrap ödevi-1
 
 [Patika](https://app.patika.dev/beyzabzrx)
 
